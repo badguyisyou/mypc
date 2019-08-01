@@ -1,0 +1,17 @@
+ul a{
+    color: #eeeeee;
+}
+a{
+    color: red;
+}
+.sitenav{
+    font-size: 14px;
+    font-family: "微软雅黑";
+}
+.nav{
+    font-size: 14px;
+    font-family: "微软雅黑";
+}
+.nav>ul>li>a{
+    color: green;
+}
